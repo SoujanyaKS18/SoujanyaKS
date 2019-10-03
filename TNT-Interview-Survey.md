@@ -19,5 +19,7 @@ The assessment consists of three exercises and for each of them, we will provide
 
 3. For mobile and tablet viewports, the icons are already showing in the right way (1 row for each icon on mobile and 2 icons per row on the tablet). So, your task will be to move the search box above the icons on those two viewports.
 
+_Here is how it should look like after manipulations:_
 
+![Exercise 1](https://github.com/tntdevs/interview-survey/blob/master/img/exercise-01.JPG)
 
