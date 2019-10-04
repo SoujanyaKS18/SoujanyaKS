@@ -8,6 +8,8 @@
 
 4. Calculate the sum of all products listed on the `Power, Batteries & Adapters` section and trigger an alert with the result.
 
+Ps: On this exercise, you don't need to worry about the mobile and tablet viewports.
+
 ***
 
 <figure>
