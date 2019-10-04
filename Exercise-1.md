@@ -8,19 +8,31 @@
 
     **_So, make sure the changes to desktop don't affect how mobile and tablet looks._**
 
+***
+
 _Here is how it should look like after manipulations:_
 
-<figure>
-    <img src="https://github.com/tntdevs/interview-survey/blob/master/img/exercise-01-mobile.JPG" height="380">
-    <p>Mobile</p>
-</figure>
-
-<figure>
-    <img src="https://github.com/tntdevs/interview-survey/blob/master/img/exercise-01-tablet.JPG" height="380">
-    <p>Tablet</p>
-</figure>
-
-<figure>
-    <img src="https://github.com/tntdevs/interview-survey/blob/master/img/exercise-01-desktop.JPG" height="380">
-    <p>Desktop</p>
-</figure>
+<table align="center">
+    <tr>
+        <td align="center">
+            <figure>
+                <img src="https://github.com/tntdevs/interview-survey/blob/master/img/exercise-01-mobile.JPG" height="380">
+                <p><em>Mobile</em></p>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://github.com/tntdevs/interview-survey/blob/master/img/exercise-01-tablet.JPG" height="380">
+                <p><em>Tablet</em></p>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <figure>
+                <img src="https://github.com/tntdevs/interview-survey/blob/master/img/exercise-01-desktop.JPG" height="380">
+                <p><em>Desktop</em></p>
+            </figure>
+        </td>
+    </tr>
+</table>
