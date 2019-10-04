@@ -6,7 +6,7 @@
 
 3. Change all the images from the `Networking` products for the `Cameras, Photo & Video` ones;
 
-4. Calculate the sum of all products listed on the `Power, Batteries & Adapters` section and trigger an alert with the result.
+4. Create a self-invoking function that calculates the sum of all products listed on the `Power, Batteries & Adapters` section and triggers an alert with the result.
 
 _Ps: On this exercise, you don't need to worry about the mobile and tablet viewports._
 
