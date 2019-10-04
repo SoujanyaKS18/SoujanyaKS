@@ -18,6 +18,6 @@ _Ps: On this exercise, you don't need to worry about the mobile and tablet viewp
 ***
 
 <figure>
-    <img src="https://github.com/tntdevs/interview-survey/blob/master/img/exercise-02-2.JPG" height="130">
+    <img src="https://github.com/tntdevs/interview-survey/blob/master/img/exercise-02-2.JPG">
     <p><em>How the filters should look like after the user clicks on the links that you've created (e.g: price)</em></p>
 </figure>
