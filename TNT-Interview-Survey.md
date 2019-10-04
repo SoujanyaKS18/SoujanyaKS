@@ -1,6 +1,6 @@
 # Dear Developer
 
-Congratulations on coming this far, now it's time for us to do a little technical evaluation.
+Congratulations on coming this far, now it's time for you to do a little technical evaluation.
 
 Through this assessment, we will be evaluating your ability to manipulate the DOM and some basic knowledge about web development. The exercises shall be delivered through a GitHub repository.
 
