@@ -11,7 +11,7 @@ _Ps: On this exercise, you don't need to worry about the mobile and tablet viewp
 ***
 
 <figure>
-    <img src="https://github.com/tntdevs/interview-survey/blob/master/img/exercise-02-1.JPG" height="380">
+    <img src="https://github.com/tntdevs/interview-survey/blob/master/img/exercise-02-1.JPG">
     <p><em>How it should look like after manipulations</em></p>
 </figure>
 
